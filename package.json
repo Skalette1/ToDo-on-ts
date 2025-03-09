@@ -1,9 +1,9 @@
 {
+  "homepage": "https://Skalette1.github.io/ToDo-on-ts",
   "name": "todo-on-ts",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Skalette1.github.io/ToDo-on-ts",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
