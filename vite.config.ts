@@ -19,3 +19,4 @@ export default defineConfig({
     "process.env": {},  // Для устранения ошибок с process.env
   },
 });
+// ..
